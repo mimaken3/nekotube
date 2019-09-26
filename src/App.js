@@ -7,7 +7,7 @@ import Body from './components/Body/Body';
 import List from './components/Video/List/List';
 import Video from './components/Video/Video';
 
-const YOUTUBE_API_KEY = 'AIzaSyCRSohMeFJEwyVFYio9aox4ZnFojDOCPGQ';
+const YOUTUBE_API_KEY = 'AIzaSyC9cU_nwYbKPKHLSOlNKbtn5AkSUGpXrs8';
 
 class App extends Component {
   // stateの初期化。取得するデータは配列なので、[]と設定
