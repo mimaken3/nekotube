@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nekotube/precache-manifest.75b4f82569b550bee183bbabb7a773ee.js"
+  "/nekotube/precache-manifest.8141a8d9e89801d6e117828c13b69a82.js"
 );
 
 self.addEventListener('message', (event) => {

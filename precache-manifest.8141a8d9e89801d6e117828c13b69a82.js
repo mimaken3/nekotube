@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84eefd56ed9b31af9854ca66e084fa39",
+    "revision": "e88cae746da124f36487d8683d647f58",
     "url": "/nekotube/index.html"
   },
   {
-    "revision": "d7814ad1ff9ff327397e",
+    "revision": "cee4038f1895786c82f2",
     "url": "/nekotube/static/css/main.f7c3db3a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nekotube/static/js/2.3c185fa5.chunk.js"
   },
   {
-    "revision": "d7814ad1ff9ff327397e",
-    "url": "/nekotube/static/js/main.6a94a8c1.chunk.js"
+    "revision": "cee4038f1895786c82f2",
+    "url": "/nekotube/static/js/main.b1fde8cd.chunk.js"
   },
   {
     "revision": "66894eae3d46d1f525be",
